@@ -1,0 +1,27 @@
+C:\Users\1\Documents\Visual Studio 2013\Projects\FileManager\FileManager\FileManager\bin\Debug\FileManager.exe.config
+C:\Users\1\Documents\Visual Studio 2013\Projects\FileManager\FileManager\FileManager\bin\Debug\FileManager.exe
+C:\Users\1\Documents\Visual Studio 2013\Projects\FileManager\FileManager\FileManager\bin\Debug\FileManager.pdb
+C:\Users\1\Documents\Visual Studio 2013\Projects\FileManager\FileManager\FileManager\obj\Debug\FileManager.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2013\Projects\FileManager\FileManager\FileManager\obj\Debug\FileManager.Form1.resources
+C:\Users\1\Documents\Visual Studio 2013\Projects\FileManager\FileManager\FileManager\obj\Debug\FileManager.Properties.Resources.resources
+C:\Users\1\Documents\Visual Studio 2013\Projects\FileManager\FileManager\FileManager\obj\Debug\FileManager.csproj.GenerateResource.Cache
+C:\Users\1\Documents\Visual Studio 2013\Projects\FileManager\FileManager\FileManager\obj\Debug\FileManager.exe
+C:\Users\1\Documents\Visual Studio 2013\Projects\FileManager\FileManager\FileManager\obj\Debug\FileManager.pdb
+G:\FileManager\FileManager\FileManager\bin\Debug\FileManager.exe.config
+G:\FileManager\FileManager\FileManager\obj\Debug\FileManager.exe
+G:\FileManager\FileManager\FileManager\obj\Debug\FileManager.pdb
+G:\FileManager\FileManager\FileManager\bin\Debug\FileManager.exe
+G:\FileManager\FileManager\FileManager\bin\Debug\FileManager.pdb
+G:\FileManager\FileManager\FileManager\obj\Debug\FileManager.csprojResolveAssemblyReference.cache
+G:\FileManager\FileManager\FileManager\obj\Debug\FileManager.Form1.resources
+G:\FileManager\FileManager\FileManager\obj\Debug\FileManager.Properties.Resources.resources
+G:\FileManager\FileManager\FileManager\obj\Debug\FileManager.csproj.GenerateResource.Cache
+E:\FileManager\FileManager\FileManager\bin\Debug\FileManager.exe.config
+E:\FileManager\FileManager\FileManager\obj\Debug\FileManager.exe
+E:\FileManager\FileManager\FileManager\obj\Debug\FileManager.pdb
+E:\FileManager\FileManager\FileManager\bin\Debug\FileManager.exe
+E:\FileManager\FileManager\FileManager\bin\Debug\FileManager.pdb
+E:\FileManager\FileManager\FileManager\obj\Debug\FileManager.csprojResolveAssemblyReference.cache
+E:\FileManager\FileManager\FileManager\obj\Debug\FileManager.Form1.resources
+E:\FileManager\FileManager\FileManager\obj\Debug\FileManager.Properties.Resources.resources
+E:\FileManager\FileManager\FileManager\obj\Debug\FileManager.csproj.GenerateResource.Cache

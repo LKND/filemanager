@@ -1,0 +1,15 @@
+c:\users\игорь\documents\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+c:\users\игорь\documents\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+c:\users\игорь\documents\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\users\игорь\documents\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\users\игорь\documents\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+c:\users\игорь\documents\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Игорь\Documents\GitHub\File\File_Manager\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Игорь\Documents\GitHub\File\File_Manager\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Игорь\Documents\GitHub\File\File_Manager\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Игорь\Documents\GitHub\File\File_Manager\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Игорь\Documents\GitHub\File\File_Manager\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Игорь\Documents\GitHub\File\File_Manager\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+E:\FileManager\File\File_Manager\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+E:\FileManager\File\File_Manager\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+E:\FileManager\File\File_Manager\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
